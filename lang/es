@@ -1,0 +1,18 @@
+# Archivo de localización en español para Sparky Password Change.
+# Copyright 2015 Fernando "seacat" Velo <seacat.linux@gmail.com> 2015/12/22
+# Bajo la licencia GNU GPL v2
+# Ultima actualización 2015/12/23
+
+LOCAL1="Nombre"
+LOCAL2="Descripción"
+LOCAL3="Herramienta para cambiar contraseñas"
+LOCAL4="Por favor, elija un usuario cuya contraseña quiera cambiar."
+LOCAL5="Salir"
+LOCAL6="Por favor, ingrese la nueva contraseña"
+LOCAL7="nuevamente."
+LOCAL8="Las contraseñas no coinciden.\nInténtelo nuevamente."
+LOCAL9="Se cambió la contraseña"
+
+### .desktop file to be translated too
+# Name[es_AR]=Cambiar contraseña
+# Comment[es_AR]=Cambie las contraseñas del sistema

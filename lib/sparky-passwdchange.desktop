@@ -1,0 +1,24 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Change Password
+Name[de_DE]=Passwort ändern
+Name[es_AR]=Cambiar contraseña
+Name[fr_FR]=Changer les mots de passe
+Name[ja_JP]=パスワードの変更
+Name[pl]=Zmień Hasło
+Name[pt_BR]=Alterando Passwords
+Name[pt_PT]=Change Password
+Comment=This lets you change the system password
+Comment[de_DE]=Dadurch wird das Systempasswort geändert
+Comment[es_AR]=Cambie las contraseñas del sistema
+Comment[fr_FR]=ceci vous permet de changer les mots de passe du système
+Comment[it_IT]=Permette di cambiare la password del sistema
+Comment[ja_JP]=システムパスワードを変更します
+Comment[pl]=Pozwala na zmianę hasła w systemie
+Comment[pt_BR]=Isto permite que você altere a password do sistema
+Comment[pt_PT]=Isto permite que você altere a password do sistema
+Exec=remsu /usr/bin/sparky-passwdchange
+Icon=seahorse
+Categories=System;
+Terminal=False
+Type=Application

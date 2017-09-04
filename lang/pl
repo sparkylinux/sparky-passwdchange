@@ -1,0 +1,19 @@
+# Polish localization file for Sparky Password Change.
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/11
+# Under the GNU GPL v2
+# Last update 2015/11/11
+# Translated to Polish by pavroo
+
+LOCAL1="Nazwa"
+LOCAL2="Opis"
+LOCAL3="Narzędzie Do Zmiany Hasła"
+LOCAL4="Proszę wybrać użytkownika, któremu chcesz zmienić hasło."
+LOCAL5="Zakończ"
+LOCAL6="Proszę wpisać nowe hasło dla"
+LOCAL7="ponownie."
+LOCAL8="Hasła nie są jednakowe.\nSpróbuj jeszcze raz."
+LOCAL9="Hasło zostało zmienione dla"
+
+### .desktop file, również do przetłumaczenia
+# Name[pl_PL]=Zmień Hasło
+# Comment[pl_PL]=Pozwala na zmianę hasła w systemie

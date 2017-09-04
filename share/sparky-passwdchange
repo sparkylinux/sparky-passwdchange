@@ -1,0 +1,1 @@
+?package(sparky-passwdchange):needs="X11" section="Applications/System"        title="Change Password" command="remsu /usr/bin/sparky-passwdchange" icon="seahorse"

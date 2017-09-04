@@ -1,0 +1,20 @@
+# Arquivo de localização para Portugues do Brasil do Sparky Password Change.
+# Copyright 2015 Pawel‚ "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/08
+# Traduzido por  Joel Chaves "Flacc"  <joel_chaves@icloud.com> 24/01/2016
+# Revisado e adaptado por Claudio Cesar de Sá "ccs1664" <ccs1664@gmail.com> 29/01/2016
+# Sob a Licença GNU GPL v2
+# Última atualização 29/01/2016
+
+LOCAL1="Nome"
+LOCAL2="Descrição"
+LOCAL3="Ferramenta de Alteração de Password"
+LOCAL4="Por favor, selecione um usuário cuja password você deseja alterar."
+LOCAL5="Sair"
+LOCAL6="Por favor, insira a nova password para"
+LOCAL7="Novamente"
+LOCAL8="As passwords não coincidem.\nTente novamente."
+LOCAL9="A password foi alterada para"
+
+### Arquivo a ser traduzido também .desktop
+# Name[pt_BR]=Alterando Passwords
+# Comment[pt_BR]=Isto permite que você altere a password do sistema

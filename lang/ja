@@ -1,0 +1,19 @@
+# Japanese localization file for Sparky Password Change.
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/11
+# Under the GNU GPL v2
+# Last update 2017/01/06
+# Translated to Japanese by BALLOON a.k.a. Fu-sen.
+
+LOCAL1="名前"
+LOCAL2="説明"
+LOCAL3="パスワード変更ツール"
+LOCAL4="パスワードを変更するユーザを選んで下さい。"
+LOCAL5="終了"
+LOCAL6="新しいパスワードを入力してください"
+LOCAL7="確認"
+LOCAL8="パスワードが一致していません。\n再度行って下さい。"
+LOCAL9="パスワードは変更されました"
+
+### .desktop file to be translated too
+# Name[ja_JP]=パスワードの変更
+# Comment[ja_JP]=システムパスワードを変更します
