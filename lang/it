@@ -1,8 +1,7 @@
 # File di localizzazione in Italiano per Sparky Password Change.
 # Copyright 2015 Carlo Troiani <troianicarlo@gmail.com> 11/11/2015
 # Rilasciato sotto licenza GNU GPL v2
-# Ultimo aggiornamento 11/11/2015
-
+# Last update 2018/07/27 by pavroo
 LOCAL1="Nome"
 LOCAL2="Descrizione"
 LOCAL3="Strumento per cambiare le password"
@@ -12,7 +11,6 @@ LOCAL6="Prego, digita la nuova password per"
 LOCAL7="di nuovo."
 LOCAL8="Le passwords non corrispondono.\nProva di nuovo."
 LOCAL9="Ho cambiato la password di"
-
 ### .desktop file to be translated too
 # Name[it_IT]=Change Password
 # Comment[it_IT]=Permette di cambiare la password del sistema

@@ -1,8 +1,7 @@
 # Arquivo de localização para Portugues de Portugal do Sparky Password Change.
 # Copyright 2016 Joel Chaves "Flacc" <joel_chaves@icloud.com> Sunday 24 January 00:02:10 WET 2016
 # Sob a Licença GNU GPL v2
-# Última atualização Sunday 24 January 00:02:10 WET 2016
-
+# Last update 2018/07/27 by pavroo
 LOCAL1="Nome"
 LOCAL2="Descrição"
 LOCAL3="Ferramenta de alteração de Password"
@@ -12,7 +11,6 @@ LOCAL6="Por favor, insira a nova password para"
 LOCAL7="Novamente"
 LOCAL8="As passwords não coincidem.\nTente novamente."
 LOCAL9="Password foi alterada para"
-
 ### Arquivo a ser traduzido também .desktop
 # Name[pt_PT]=Change Password
 # Comment[pt_PT]=Isto permite que você altere a password do sistema

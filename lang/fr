@@ -1,8 +1,7 @@
 ﻿# Fichier de localisation française de Sparky Password Change.
 # Copyright 2016 hiver <hiver@club-internet.fr> 2016/05/12
 # Sous licence GNU GPL v2
-# Dernière mise à jour 2016/06/05
-
+# Last update 2018/07/27 by pavroo
 LOCAL1="Nome"
 LOCAL2="Description"
 LOCAL3="Outil pour changer les mots de passe"
@@ -12,7 +11,6 @@ LOCAL6="S'il vous plaît, entrer le nouveau mot de passe"
 LOCAL7="à nouveau."
 LOCAL8="les mots de passe sont différents.\nEssayez à nouveau."
 LOCAL9="Le mot de passe a été changé"
-
 ### .desktop file to be translated too
 # Name[fr_FR]=Changer les mots de passe
 # Comment[fr_FR]=ceci vous permet de changer les mots de passe du système

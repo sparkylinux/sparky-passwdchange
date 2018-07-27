@@ -1,0 +1,18 @@
+# Indonesian localization file for Sparky Password Change.
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/11
+# Under the GNU GPL v2
+# Last update 2018/07/27 by pavroo
+# Translated to Indonesian by les kompie
+LOCAL1="Nama"
+LOCAL2="Deskripsi"
+LOCAL3="Tool Pengganti Password"
+LOCAL4="Pilih user yang password-nya mau diganti."
+LOCAL5="Keluar"
+LOCAL6="Masukkan password baru untuk"
+LOCAL7="lagi."
+LOCAL8="Kedua password tidak cocok.\nCoba lagi."
+LOCAL9="Password sudah diubah untuk"
+### .desktop file to be translated too
+# Name[id]=Ganti Password
+# Comment[id]=Ini untuk mengganti password sistem
+

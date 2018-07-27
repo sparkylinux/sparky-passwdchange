@@ -3,7 +3,7 @@ Upstream Author(s):
     Paweł "pavroo" Pijanowski <pavroo@onet.eu>
 
 Files: *
-    Copyright (C) 2013,2014,2015,2016,2017 Paweł Pijanowski
+    Copyright (C) 2013-2018 Paweł Pijanowski
 
 File: sparky-passwdchange is based on passwdchange originally created by Tony Brijeski
     Copyright (C) 2007,2008,2009 Tony Brijeski
@@ -21,6 +21,10 @@ File: fr
     Copyright (C) 2016 hiver <hiver@club-internet.fr>
     License: GPL-2
 
+File: id_ID
+    Copyright (C) 2018 les kompie
+    License: GPL-2
+
 File: it
     Copyright (C) 2015 Carlo‚ "malato" Troiani <abbassolafrangetta@gmail.com>
     License: GPL-2
@@ -31,6 +35,7 @@ File: ja
 
 File: pt_BR
     Copyright (C) 2016 Claudio Cesar de Sá "ccs1664" <ccs1664@gmail.com>
+    Copyright (C) 2018 Elton Fabricio Ferreira
     License: GPL-2
 
 File: pt_PT

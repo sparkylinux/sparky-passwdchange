@@ -1,9 +1,8 @@
 # German localization file for Sparky Password Change.
 # Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/11
 # Under the GNU GPL v2
-# Last update 2016/02/27
+# Last update 2018/07/27 by pavroo
 # Translated to German by lunatic
-
 LOCAL1="Name"
 LOCAL2="Beschreibung"
 LOCAL3="Passwort-Änderungswerkzeug"
@@ -13,7 +12,6 @@ LOCAL6="Bitte geben Sie das neue Passswort ein für"
 LOCAL7="noch einmal."
 LOCAL8="Die Passwörter stimmen nicht überein.\nNeuer Versuch."
 LOCAL9="Das Passwort wurde geändert für"
-
 ### .desktop file to be translated too
 # Name[de_DE]=Passwort ändern
 # Comment[de_DE]=Dadurch wird das Systempasswort geändert
