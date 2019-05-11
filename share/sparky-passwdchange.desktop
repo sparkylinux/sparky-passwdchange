@@ -19,6 +19,7 @@ Comment[ja]=システムパスワードを変更します
 Comment[pl]=Pozwala na zmianę hasła w systemie
 Comment[pt_BR]=Isso permite que você altere a senha do sistema
 Comment[pt_PT]=Isto permite que você altere a password do sistema
+Comment[ru]=Позволяет вам изменить системный пароль
 Exec=remsu /usr/bin/sparky-passwdchange
 Icon=seahorse
 Categories=System;

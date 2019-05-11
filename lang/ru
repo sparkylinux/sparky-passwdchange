@@ -1,0 +1,16 @@
+# Файл русской локализации для Sparky Password Change.
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/11
+# Под лицензией GNU GPL v2
+# Last update 2018/07/27 by pavroo
+LOCAL1="Имя"
+LOCAL2="Описание"
+LOCAL3="Инструмент изменения пароля"
+LOCAL4="Пожалуйста, выберите пользователя, пароль которого вы хотите изменить."
+LOCAL5="Выход"
+LOCAL6="Пожалуйста, введите новый пароль для"
+LOCAL7="введите ещё раз."
+LOCAL8="Пароли не совпадают.\nПопробуйте ещё раз."
+LOCAL9="Пароль был изменен для"
+### .desktop файл был переведён ChourS
+# Name[ru_RU]=Change Password
+# Comment[ru_RU]=Позволяет вам изменить системный пароль

@@ -25,7 +25,7 @@ else
 	if [ ! -d /usr/lib/sparkyusers ]; then
 		mkdir -p /usr/lib/sparkyusers
 	fi
-	cp lib/* /usr/lib/sparkyusers/
+	cp share/sparky-passwdchange.desktop /usr/lib/sparkyusers/
 	cp share/sparky-passwdchange.desktop /usr/share/applications/
 	cp share/sparky-passwdchange /usr/share/menu/
 	if [ ! -d /usr/share/sparky/sparky-passwdchange ]; then
