@@ -1,0 +1,16 @@
+# Magyar nyelvi fájl a Sparky jelszócseréhez.
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/11
+# GNU GPL v2 szerint
+# Utolsó frissítés: pavroo 2018/07/27
+LOCAL1="Név"
+LOCAL2="Leírás"
+LOCAL3="Jelszócsere-eszköz"
+LOCAL4="Kérjük, válassza ki a felhasználót, akinek ki kívánja cserélni a jelszavát."
+LOCAL5="Kilépés"
+LOCAL6="Kérjük hagyja jóvá az új jelszót [felhasználó neve] részére"
+LOCAL7="ismét."
+LOCAL8="A jelszavak nem egyeznek.\nPróbálja újra."
+LOCAL9="A jelszó [felhasználó neve] megváltozott"
+### .asztal fájl is lefordítandó
+# Név[HU]=Jelszó megváltoztatása
+# Megjegyzés [HU]=Ezzel megváltoztathatja a rendszerhez tartozó jelszót
