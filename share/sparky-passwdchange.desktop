@@ -2,6 +2,7 @@
 Encoding=UTF-8
 Name=Change Password
 Name[de]=Passwort ändern
+Name[el]=Αλλαγή Κωδικού Password
 Name[es]=Cambiar contraseña
 Name[fr]=Changer les mots de passe
 Name[hu]=Jelszó megváltoztatása
@@ -12,6 +13,7 @@ Name[pt_BR]=Alterando Senhas
 Name[pt_PT]=Change Password
 Comment=This lets you change the system password
 Comment[de]=Dadurch wird das Systempasswort geändert
+Comment[el]=Επιτρέπει την αλλαγή κωδικών password του συστήματος
 Comment[es]=Cambie las contraseñas del sistema
 Comment[fr]=ceci vous permet de changer les mots de passe du système
 Comment[hu]=Ezzel megváltoztathatja a rendszerhez tartozó jelszót

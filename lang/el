@@ -1,0 +1,16 @@
+# Greek localization file for Sparky Password Change.
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/11
+# Under the GNU GPL v2
+# Last update 2019/11/06 by jidan
+LOCAL1="Όνομα"
+LOCAL2="Περιγραφή"
+LOCAL3="Εφαρμογή αλλαγής κωδικού Password"
+LOCAL4="Επιλέξτε έναν χρήστη του οποίου ο κωδικός θα αλλάξει"
+LOCAL5="Τερματισμός"
+LOCAL6="Επιλέξτε το νέο κωδικό για το χρήστη"
+LOCAL7="ξανά."
+LOCAL8="Οι κωδικοί δεν ταιριάζουν.\nΔοκιμάστε ξανά."
+LOCAL9="Ο κωδικός Password άλλαξε για τον"
+### .desktop file to be translated too
+# Name[el_GR]=Αλλαγή Κωδικού Password
+# Comment[el_GR]=Επιτρέπει την αλλαγή κωδικών password του συστήματος
